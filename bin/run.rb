@@ -1,5 +1,7 @@
-Hashie
-Sinatra
-Octokit
-Pry
-AwesomePrint
+
+
+Hashie	Hashie
+Sinatra	Sinatra
+Octokit	Octokit
+Pry	Pry
+AwesomePrint	AwesomePrint
