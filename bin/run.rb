@@ -1,7 +1,8 @@
 require_relative '../config/environment'
 
-Hashie	Hashie
-Sinatra	Sinatra
-Octokit	Octokit
-Pry	Pry
-AwesomePrint	AwesomePrint
+Hashie
+Sinatra
+Octokit
+Pry
+AwesomePrint
+AwesomePrint 
